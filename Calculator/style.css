@@ -1,0 +1,52 @@
+body {
+  width: 100%;
+  background-color: black;
+  color: white;
+  font-family: "Montserrat", sans-serif;
+}
+
+.main {
+  margin: auto;
+  width: 50%;
+  padding: 100px;
+}
+
+button {
+  width: 24%;
+  padding: 10px;
+}
+
+input {
+  width: 96%;
+  background-color: grey;
+  height: 30px;
+}
+
+button,
+input {
+  font-weight: bold;
+  border-radius: 8px;
+  font-family: "Montserrat", sans-serif;
+}
+
+button:active {
+  background-color: grey;
+  transform: translateY(1px);
+}
+
+@media screen and (max-width: 450px) {
+  .main {
+    width: 90%;
+    margin: 0px;
+    margin-top: 20px;
+    padding: 0px;
+  }
+  button {
+    width: 20%;
+    padding: 0px;
+    height: 30px;
+  }
+  input {
+    width: 80%;
+  }
+}
