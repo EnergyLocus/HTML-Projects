@@ -1,6 +1,6 @@
 # HTML Projects
  
-This repo includes HTML projects created by me.
+This repo includes HTML projects created by me which are small scale. Larger ones have their separate repository.
 
 ## [Calculator](/Calculator)
 This calculator includes 4 basic functions and 4 extra functions.
