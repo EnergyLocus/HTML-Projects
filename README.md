@@ -1,2 +1,14 @@
-# Calculator
+# HTML Projects
  
+This repo includes HTML projects created by me.
+
+## [Calculator](/Calculator)
+This calculator includes 4 basic functions and 4 extra functions.
+### Basic Functions
+1. Addition
+2. Substraction
+3. Multiplication
+4. Division
+## [Timer](/Timer)
+Simple timer that can count down upto days, hours, minutes, and seconds.<br>
+For now you'll have to edit the code to set time. I'm working on a form that will accept that date and time.
