@@ -27,4 +27,4 @@ For now you'll have to edit the code to set time. I'm working on a form that wil
 
 ## [Kalamkari-Clone](/Kalamkari-Clone)
 
-This clone is created from the [Kalamkari Website](kalamkari.vercel.app)
+This clone is created from the [Kalamkari Website](https://kalamkari.vercel.app)
