@@ -45,7 +45,7 @@ a {
 
 .browse ul li,
 .options ul li {
-  margin-left: 10px;
+  margin-left: 15px;
 }
 
 .src {
@@ -80,4 +80,15 @@ a {
 
 .options ul li i {
   margin-bottom: 5px;
+}
+
+.main,
+iframe {
+  width: 100%;
+  height: 1000px;
+}
+
+iframe {
+  border: none;
+  overflow: hidden;
 }
