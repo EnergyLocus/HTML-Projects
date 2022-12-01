@@ -24,3 +24,7 @@ This calculator includes 4 basic functions and 4 extra functions.
 
 Simple timer that can count down upto days, hours, minutes, and seconds.<br>
 For now you'll have to edit the code to set time. I'm working on a form that will accept that date and time.
+
+## [Kalamkari-Clone](/Kalamkari-Clone)
+
+This clone is created from the [Kalamkari Website](kalamkari.vercel.app)
