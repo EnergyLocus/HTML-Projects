@@ -9,6 +9,7 @@ function jsrun() {
   if (count == 0) {
     var dateControl = document.querySelector('input[type="datetime-local"]');
     var countDownDate = dateControl.valueAsNumber;
+    if (countDownDate == null) alert("NAN Condition");
     var x = setInterval(function () {
       var now = new Date().getTime();
       var distance = countDownDate - now;
