@@ -28,3 +28,8 @@ For now you'll have to edit the code to set time. I'm working on a form that wil
 ## [Kalamkari-Clone](/Kalamkari-Clone)
 
 This clone is created from the [Kalamkari Website](https://kalamkari.vercel.app)
+
+## [Video Player](/Video-Player)
+
+This project is used to play any video or music link directly into the browser which otherwise is downloaded by default.<br>
+Due to lack of my knowledge in JS, I can't actually program it to check if the link enterend is of video or music or not a multimedia link.
